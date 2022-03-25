@@ -1,2 +1,1 @@
-# .github
-General purpose repo for templating
+# Q2 General Repository File
