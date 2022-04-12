@@ -1,21 +1,23 @@
-## What is the purpose for the pull request?
+### What is the purpose for the pull request?
 
-## Did you select the correct destination branch for this request?
+### Did you select the correct destination branch for this request?
 
-## Does this pull request have a reference to a JIRA task?  Provide a link
+### Does this pull request have a reference to a JIRA task?  Provide a link
 
-## What is the scope of the pull request?
+### What is the scope of the pull request?
 
-## Are there any changes in this pull request that would affect other apps?  If so, how were those tested?
+### Are there any changes in this pull request that would affect other apps?  If so, how were those tested?
 
-## How did you test your changes?
+### How did you test your changes?
 
-## Do these changes require updates from another repository?  If so, which repository?
+### Do these changes require updates from another repository?  If so, which repository?
 
-## Are your changes thoroughly commented?
+### Are your changes thoroughly commented?
 
-## Do these changes generate any warnings?
+### Do these changes generate any warnings?
 
-## Are the changes backwards compatible?
+### Are there any environment files that are not tracked in the repo that were changed?
 
-## Are any screenshots applicable?
+### Are the changes backwards compatible?
+
+### Are any screenshots applicable?
