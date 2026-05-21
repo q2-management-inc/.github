@@ -1,25 +1,25 @@
-### What is the purpose for the pull request?
+### What is the purpose for the pull request?  Describe the changes you're implementing and the reason for the changes.
 
-### Were you able to build successfully?
+### Were you able to build successfully?  Building before PR ensures nothing breaks when the PR is merged.  If you were not able to build successfully, please resolve or otherwise provide details on the errors you encountered.
 
-### Did you select the correct destination branch for this request?
+### Did you select the correct destination branch for this request? (Usually main, or master)
 
 ### Does this pull request have a reference to a JIRA task?  Provide a link
 
-### What is the scope of the pull request?
+### What is the scope of the pull request?  What areas of the codebase are affected by this change?
 
 ### Are there any changes in this pull request that would affect other apps?  If so, how were those tested?
 
-### How did you test your changes?
+### How did you test your changes?  What browsers did you test on?  What devices did you test on?  Consider that most of our customer base will be using Chrome or Edge
 
 ### Do these changes require updates from another repository?  If so, which repository?
 
-### Are your changes thoroughly commented?
+### Are your changes thoroughly commented?  Comments are important for code readability and maintainability, especially for complex logic or non-obvious code.
 
-### Do these changes generate any warnings?
+### Do these changes generate any warnings?  Addressing warnings before merging helps maintain code quality and makes other warnings easier to identify in the future.
 
 ### Are there any environment files that are not tracked in the repo that were changed?
 
-### Are the changes backwards compatible?
+### Are the changes backwards compatible?  Keep in mind that our customers may not be on the latest version of the app, so changes should not break functionality for users on older versions.
 
-### Are any screenshots applicable?
+### Are any screenshots applicable?  Please include
